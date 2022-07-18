@@ -1,0 +1,30 @@
+
+.data-search {
+  h1 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+
+  &-serachbar {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+
+  &-table {
+    table {
+      display: flex;
+      width: max-content;
+      // border: 1px solid;
+    }
+
+    thead {
+      // border-right: 1px solid;
+    }
+
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+}
